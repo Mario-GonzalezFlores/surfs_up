@@ -26,7 +26,11 @@ In the image above (decembers summary statistics) we can see the following:
 - The average temperature is 69°F, which is a really nice weather for taking a walk and maybe eating some ice-cream
 - The maximum temperature is 83°F... perfecto for swwiming, surfing and eating ice-cream! 
  
-Guess there are no objections now, we can surf all year long!
 
 ## Summary
 
+Since the intention of thiis analysis is to determine wether a surf and ice-cream station is a good idea in Ohau, we can inferre, from the data shown, that it's actually a great idea. There seem to be no extreme temperatures, both maximum and minimum are pretty much ttolerable, and most of the time the temperature would be ideal for the station.
+
+If we wanted to deepen our analysis we could consider matching temperatures and precipitation, shich could tell us if there is a correlation between some specific behaivours in temperature that precede rains, this could tell us how many days per year we would probably need to close.
+
+Guess there are no objections now, we can surf all year long!
