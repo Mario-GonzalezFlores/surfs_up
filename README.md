@@ -8,7 +8,7 @@ This code is created to present the temperatures in Oahu with the intention to c
 
 ### June
 
-#####June - summary statistics
+###June - summary statistics
 ![june_sum](https://user-images.githubusercontent.com/89816213/142351221-4dab12fe-0e45-451e-9422-8f0db7097e4b.PNG)
 
 In the image above (junes summary statistics) we can see the following:
@@ -16,7 +16,7 @@ In the image above (junes summary statistics) we can see the following:
 - The average temperature is 75°F, which is a pleasant and not too hot temperature, probably ideal for surfing.
 - The maximum temperature is 85°F, which is kinda hot, but still pretty nice to go for a swim and get some ice-cream!
 
-#####dec - summary statistics
+###dec - summary statistics
 ![dec_sum](https://user-images.githubusercontent.com/89816213/142352472-dfd7ee97-d621-4578-a851-4aa830264396.PNG)
 
 In the image above (decembers summary statistics) we can see the following:
